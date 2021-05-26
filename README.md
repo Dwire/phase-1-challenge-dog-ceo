@@ -1,5 +1,17 @@
 # Fetch Dog CEO Challenge
 
+
+- domcontent loaded
+- fetch - store result in variable
+- Using select dropdown
+
+select
+  option
+  option
+  option
+  option
+select 
+
 ## Learning Goals
 
 - Practice accessing information from APIs and using it to update the DOM
