@@ -1,5 +1,9 @@
 # Fetch Dog CEO Challenge
 
+- Bonus - dropdown
+- Listing breeds and *subbreeds*
+
+
 ## Learning Goals
 
 - Practice accessing information from APIs and using it to update the DOM
